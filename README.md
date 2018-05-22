@@ -67,3 +67,17 @@ express
     randexp.js
     3.  Serve Data via API
     JSON Server
+
+##  Structure
+1. Put JS in a .js file
+2. Consider organizing by feature
+3. Extract logic into "POJOs"
+
+##  Production Build
+1. Minification
+2. Sourcemaps
+3. Minified HTML and dynamic script tags
+4. Cache busting
+5. Bundle splitting
+6. Error logging
+7. Dynamic HTML via EmbeddedJS
