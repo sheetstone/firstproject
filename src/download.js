@@ -1,3 +1,8 @@
+/*
+batched downloades file from server defined in path
+Run this code by using node download.js
+*/
+
 var fs = require('fs'),
     request = require('request');
 
