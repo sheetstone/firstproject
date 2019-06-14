@@ -1,0 +1,118 @@
+{
+  "v:project":"go-aem-som",
+  "query":"aem",
+  "list":{
+    "path":"",
+    "num":"14",
+    "level":"0",
+    "more":"root|root",
+    "start":"0",
+    "per":"500",
+    "subsearch":"0",
+    "document":[
+    {
+      "contents":{
+          "snippet":"Go <span class=\"vivbold qt0\">AEM<\/span> Welcome to Go <span class=\"vivbold qt0\">AEM <\/span>Author your website using Adobe Experience Manager using in context editing and drag and drop. Test Preview What is Go <span class=\"vivbold qt0\">AEM<\/span>? Go <span class=\"vivbold qt0\">AEM<\/span> is a cloud solution of <span class=\"vivbold qt0\">AEM<\/span> ( ...",
+          "title":"Go <span class=\"vivbold qt0\">AEM <\/span>",
+          "url":"http://52.36.235.160:4503/content/workforce/goaem.html"
+      }
+    },
+    {
+      "contents":{
+          "snippet":"Go-<span class=\"vivbold qt0\">AEM<\/span>-Home Go <span class=\"vivbold qt0\">AEM<\/span> is a cloud solution of <span class=\"vivbold qt0\">AEM<\/span> that allows Kaiser Permanente departments to author and maintain their own sites (internal and ...",
+          "title":"Go- <span class=\"vivbold qt0\">AEM <\/span>-Home",
+          "url":"http://52.36.235.160:4503/content/workforce/go-<span class=\"vivbold qt0\">aem<\/span>-home.html"
+      }
+    },
+    {
+      "contents":{
+          "snippet":"What is Go <span class=\"vivbold qt0\">AEM<\/span>? What is Go <span class=\"vivbold qt0\">AEM<\/span>? Go <span class=\"vivbold qt0\">AEM<\/span> is a cloud solution for <span class=\"vivbold qt0\">AEM<\/span> (Adobe Experience Manager) that allows Kaiser Permanente departments to author and maintain their own sites ( ...",
+          "title":"What is Go <span class=\"vivbold qt0\">AEM<\/span>?",
+          "url":"http://52.36.235.160:4503/content/workforce/goaem/what.html"
+      }
+    },
+    {
+      "contents":{
+          "snippet":"... Go <span class=\"vivbold qt0\">AEM <\/span>Training References References for Go and <span class=\"vivbold qt0\">AEM <\/span>@workplace Go <span class=\"vivbold qt0\">AEM<\/span> has a presence on @workplace. ... find the same documentation on the Wiki . Adobe <span class=\"vivbold qt0\">AEM<\/span> Documentation Adobe has <span class=\"vivbold qt0\">AEM<\/span> documentation available on their ...",
+          "title":"References",
+          "url":"http://52.36.235.160:4503/content/workforce/goaem/training/references.html"
+      }
+    },
+    {
+      "contents":{
+          "snippet":"... up Getting access and set up with Go <span class=\"vivbold qt0\">AEM <\/span> Acquiring access to Go <span class=\"vivbold qt0\">AEM<\/span> is easy! Get a Kaiser Permanente brand approved ... plan ahead. How do I complete the required <span class=\"vivbold qt0\">AEM<\/span> training? The information is here on this page . ...",
+          "title":"Getting set up",
+          "url":"http://52.36.235.160:4503/content/workforce/goaem/access-to-go-<span class=\"vivbold qt0\">aem<\/span>.html"
+      }
+    },
+    {
+      "contents":{
+          "snippet":"... Permanente is adhering to. 6 Will my Go <span class=\"vivbold qt0\">AEM<\/span> site be mobile friendly? Yes, it will be. ... Do I need to install anything to use <span class=\"vivbold qt0\">AEM<\/span>? Nope. It's all browser based. In the ...",
+          "title":"FAQ's",
+          "url":"http://52.36.235.160:4503/content/workforce/goaem/support/faq.html"
+      }
+    },
+    {
+      "contents":{
+          "snippet":"intake-registration-form Go <span class=\"vivbold qt0\">AEM<\/span> set up and Access request Please correct the error Requestor Information NUID * First Name * Last Name * Email Address * Phone * Manager' ...",
+          "title":"intake -registration -form",
+          "url":"http://52.36.235.160:4503/content/workforce/goaem/access-to-go-<span class=\"vivbold qt0\">aem<\/span>/intake-registration-form.html"
+      }
+    },
+    {
+      "contents":{
+          "snippet":"... search using the offering id. This is for <span class=\"vivbold qt0\">AEM<\/span> 6.4 course_title: Adobe Experience Manager - Author - eLearning course_id: PRD:NAIT DSS <span class=\"vivbold qt0\">AEM <\/span>offering id: 00747806 course_title: Adobe Reports &amp; Analytics - ...",
+          "title":"Training",
+          "url":"http://52.36.235.160:4503/content/workforce/goaem/training.html"
+      }
+    },
+    {
+      "contents":{
+          "snippet":"intake-reg-outcome Go <span class=\"vivbold qt0\">AEM<\/span> Intake request received successfully , You will be contacted soon. � 2017 Kaiser Permanente about us contact us What is Go <span class=\"vivbold qt0\">AEM<\/span>? How do I get set up? Training on ...",
+          "title":"intake -reg-outcome",
+          "url":"http://52.36.235.160:4503/content/workforce/goaem/access-to-go-<span class=\"vivbold qt0\">aem<\/span>/intake-reg-outcome.html"
+      }
+    },
+    {
+      "contents":{
+          "snippet":"... These products include: Analytics Audience Manager Experience Manager (<span class=\"vivbold qt0\">AEM<\/span>) Assets Forms Target DTM (Dynamic Tag Manager) IBM Watson Explorer (WEX) We developed Go <span class=\"vivbold qt0\">AEM<\/span> as a way to showcase standardized <span class=\"vivbold qt0\">AEM<\/span> templates ...",
+          "title":"About Us",
+          "url":"http://52.36.235.160:4503/content/workforce/goaem/about.html"
+      }
+    },
+    {
+      "contents":{
+          "snippet":"Contact Us Go <span class=\"vivbold qt0\">AEM <\/span>Support Contact Us Need some more information you can't find on the site. Drop us an email. Use this form to request access to Go <span class=\"vivbold qt0\">AEM<\/span>. First Name * Last Name * Department Business Team/Group ...",
+          "title":"Contact Us",
+          "url":"http://52.36.235.160:4503/content/workforce/goaem/support/contact.html"
+      }
+    },
+    {
+      "contents":{
+          "snippet":"All Access Pass Go <span class=\"vivbold qt0\">AEM <\/span>Training All Access Pass Adobe All-Access Training Pass Kaiser Permanente has purchased an all-access training pass from Adobe. ... Permanente about us contact us What is Go <span class=\"vivbold qt0\">AEM<\/span>? How do I get set up? Training on ...",
+          "title":"All Access Pass",
+          "url":"http://52.36.235.160:4503/content/workforce/goaem/training/access.html"
+      }
+    },
+    {
+      "contents":{
+          "snippet":"Support How do I get support? Go <span class=\"vivbold qt0\">AEM<\/span> has been designed to allow people to be self-starters. Use the group on @workplace to get questions answered, share code or ideas. ...",
+          "title":"Support",
+          "url":"http://52.36.235.160:4503/content/workforce/goaem/support.html"
+      }
+    },
+    {
+      "contents":{
+          "snippet":"... Permanente about us contact us What is Go <span class=\"vivbold qt0\">AEM<\/span>? How do I get set up? Training on ...",
+          "title":"error",
+          "url":"http://52.36.235.160:4503/content/workforce/goaem/error.html"
+      }
+    },
+    {
+      "contents":{
+          "snippet":"... Permanente about us contact us What is Go <span class=\"vivbold qt0\">AEM<\/span>? How do I get set up? Training on ...",
+          "title":"Search",
+          "url":"http://52.36.235.160:4503/content/workforce/goaem/search.html"
+      }
+    }]}
+}
